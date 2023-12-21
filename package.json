@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@polkadot/api": "^10.11.2",
+    "@polkadot/rpc-provider": "^10.11.2",
+    "@polkadot/util-crypto": "^12.6.2"
+  }
+}
